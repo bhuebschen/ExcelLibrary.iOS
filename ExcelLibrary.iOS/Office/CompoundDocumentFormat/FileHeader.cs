@@ -71,7 +71,7 @@ namespace ExcelLibrary.CompoundDocumentFormat
 
         /// <summary>
         /// SID of first sector of the short-sector allocation table,
-        /// or ¨C2 (End Of Chain SID) if not extant
+        /// or ï¿½C2 (End Of Chain SID) if not extant
         /// </summary>
         public Int32 FirstSectorIDofShortSectorAllocationTable;
 
@@ -82,7 +82,7 @@ namespace ExcelLibrary.CompoundDocumentFormat
 
         /// <summary>
         /// SID of first sector of the master sector allocation table,
-        /// or ¨C2 (End Of Chain SID) if no additional sectors used
+        /// or ï¿½C2 (End Of Chain SID) if no additional sectors used
         /// </summary>
         public Int32 FirstSectorIDofMasterSectorAllocationTable;
 

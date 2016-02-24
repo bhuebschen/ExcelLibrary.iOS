@@ -4,7 +4,7 @@
 // actions made in the UI designer. If it is removed, they will be lost.
 // Manual changes to this file may not be handled correctly.
 //
-using MonoTouch.Foundation;
+using Foundation;
 using System.CodeDom.Compiler;
 
 namespace ExcelLibrary.iOS.Test
@@ -13,229 +13,229 @@ namespace ExcelLibrary.iOS.Test
 	partial class ExcelLibrary_iOS_TestViewController
 	{
 		[Outlet]
-		MonoTouch.UIKit.UILabel A1 { get; set; }
+		 UIKit.UILabel A1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A10 { get; set; }
+		 UIKit.UILabel A10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A11 { get; set; }
+		 UIKit.UILabel A11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A12 { get; set; }
+		 UIKit.UILabel A12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A2 { get; set; }
+		 UIKit.UILabel A2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A3 { get; set; }
+		 UIKit.UILabel A3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A4 { get; set; }
+		 UIKit.UILabel A4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A5 { get; set; }
+		 UIKit.UILabel A5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A6 { get; set; }
+		 UIKit.UILabel A6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A7 { get; set; }
+		 UIKit.UILabel A7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A8 { get; set; }
+		 UIKit.UILabel A8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel A9 { get; set; }
+		 UIKit.UILabel A9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B1 { get; set; }
+		 UIKit.UILabel B1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B10 { get; set; }
+		 UIKit.UILabel B10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B11 { get; set; }
+		 UIKit.UILabel B11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B12 { get; set; }
+		 UIKit.UILabel B12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B2 { get; set; }
+		 UIKit.UILabel B2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B3 { get; set; }
+		 UIKit.UILabel B3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B4 { get; set; }
+		 UIKit.UILabel B4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B5 { get; set; }
+		 UIKit.UILabel B5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B6 { get; set; }
+		 UIKit.UILabel B6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B7 { get; set; }
+		 UIKit.UILabel B7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B8 { get; set; }
+		 UIKit.UILabel B8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel B9 { get; set; }
+		 UIKit.UILabel B9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C1 { get; set; }
+		 UIKit.UILabel C1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C10 { get; set; }
+		 UIKit.UILabel C10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C11 { get; set; }
+		 UIKit.UILabel C11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C12 { get; set; }
+		 UIKit.UILabel C12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C2 { get; set; }
+		 UIKit.UILabel C2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C3 { get; set; }
+		 UIKit.UILabel C3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C4 { get; set; }
+		 UIKit.UILabel C4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C5 { get; set; }
+		 UIKit.UILabel C5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C6 { get; set; }
+		 UIKit.UILabel C6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C7 { get; set; }
+		 UIKit.UILabel C7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C8 { get; set; }
+		 UIKit.UILabel C8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel C9 { get; set; }
+		 UIKit.UILabel C9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D1 { get; set; }
+		 UIKit.UILabel D1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D10 { get; set; }
+		 UIKit.UILabel D10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D11 { get; set; }
+		 UIKit.UILabel D11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D12 { get; set; }
+		 UIKit.UILabel D12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D2 { get; set; }
+		 UIKit.UILabel D2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D3 { get; set; }
+		 UIKit.UILabel D3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D4 { get; set; }
+		 UIKit.UILabel D4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D5 { get; set; }
+		 UIKit.UILabel D5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D6 { get; set; }
+		 UIKit.UILabel D6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D7 { get; set; }
+		 UIKit.UILabel D7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D8 { get; set; }
+		 UIKit.UILabel D8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel D9 { get; set; }
+		 UIKit.UILabel D9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E1 { get; set; }
+		 UIKit.UILabel E1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E10 { get; set; }
+		 UIKit.UILabel E10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E11 { get; set; }
+		 UIKit.UILabel E11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E12 { get; set; }
+		 UIKit.UILabel E12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E2 { get; set; }
+		 UIKit.UILabel E2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E3 { get; set; }
+		 UIKit.UILabel E3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E4 { get; set; }
+		 UIKit.UILabel E4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E5 { get; set; }
+		 UIKit.UILabel E5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E6 { get; set; }
+		 UIKit.UILabel E6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E7 { get; set; }
+		 UIKit.UILabel E7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E8 { get; set; }
+		 UIKit.UILabel E8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel E9 { get; set; }
+		 UIKit.UILabel E9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F1 { get; set; }
+		 UIKit.UILabel F1 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F10 { get; set; }
+		 UIKit.UILabel F10 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F11 { get; set; }
+		 UIKit.UILabel F11 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F12 { get; set; }
+		 UIKit.UILabel F12 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F2 { get; set; }
+		 UIKit.UILabel F2 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F3 { get; set; }
+		 UIKit.UILabel F3 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F4 { get; set; }
+		 UIKit.UILabel F4 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F5 { get; set; }
+		 UIKit.UILabel F5 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F6 { get; set; }
+		 UIKit.UILabel F6 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F7 { get; set; }
+		 UIKit.UILabel F7 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F8 { get; set; }
+		 UIKit.UILabel F8 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UILabel F9 { get; set; }
+		 UIKit.UILabel F9 { get; set; }
 
 		[Outlet]
-		MonoTouch.UIKit.UICollectionView Grid { get; set; }
+		 UIKit.UICollectionView Grid { get; set; }
 
 		[Action ("TestRead:")]
-		partial void TestRead (MonoTouch.Foundation.NSObject sender);
+		partial void TestRead ( Foundation.NSObject sender);
 
 		[Action ("TestSave:")]
-		partial void TestSave (MonoTouch.Foundation.NSObject sender);
+		partial void TestSave ( Foundation.NSObject sender);
 		
 		void ReleaseDesignerOutlets ()
 		{

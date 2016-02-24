@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
-using System.Drawing;
+using CoreGraphics;
 using ExcelLibrary.CompoundDocumentFormat;
 using ExcelLibrary.SpreadSheet;
-using MonoTouch.UIKit;
+using UIKit;
 
 namespace ExcelLibrary.BinaryFileFormat
 {
