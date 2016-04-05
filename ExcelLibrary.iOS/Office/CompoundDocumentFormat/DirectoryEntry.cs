@@ -37,20 +37,20 @@ namespace ExcelLibrary.CompoundDocumentFormat
 
         /// <summary>
         /// DID of the left child node inside the red-black tree of all direct members of the parent storage 
-        /// (if this entry is a user storage or stream), ¨C1 if there is no left child
+        /// (if this entry is a user storage or stream), ï¿½C1 if there is no left child
         /// </summary>
         public int LeftChildDID;
 
         /// <summary>
         /// DID of the right child node inside the red-black tree of all direct members of the parent storage
-        /// (if this entry is a user storage or stream), ¨C1 if there is no right child
+        /// (if this entry is a user storage or stream), ï¿½C1 if there is no right child
         /// </summary>
         public int RightChildDID;
 
         /// <summary>
         /// The directory organises direct members (storages and streams) of each storage in a separate red-black tree.
         /// DID of the root node entry of the red-black tree of all storage members
-        /// (if this entry is a storage), ¨C1 otherwise
+        /// (if this entry is a storage), ï¿½C1 otherwise
         /// </summary>
         public int MembersTreeNodeDID;
 
@@ -186,7 +186,7 @@ namespace ExcelLibrary.CompoundDocumentFormat
             }
         }
 
-        #region IComparable<DirectoryEntry> ³ÉÔ±
+        #region IComparable<DirectoryEntry> ï¿½ï¿½Ô±
 
         public int CompareTo(DirectoryEntry other)
         {

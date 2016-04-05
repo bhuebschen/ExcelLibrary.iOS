@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Drawing;
+using CoreGraphics;
 using ExcelLibrary.BinaryFileFormat;
-using MonoTouch.UIKit;
+using UIKit;
 
 namespace ExcelLibrary.SpreadSheet
 {
